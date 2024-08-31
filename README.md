@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Tass
+- 👋 Hi fellow progammers!
 - 👀 I’m interested in learning about website analytics
 - 🌱 I’m currently learning about the basics of text mining
 - 💞️ I’m looking to collaborate
